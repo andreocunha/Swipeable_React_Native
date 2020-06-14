@@ -1,16 +1,8 @@
-# Swipeable_React_Native
-Simples card com algumas informações e uma área deslizável para cima quando o card é clicado.
-
-<h4 align="center"> 
+<h4 align="center" font-size=20 font-weight="bold"> 
 	Swipeable up com React Native
 </h4>
 
-<p align="center">
-  <a href="#-funcionamento">Funcionamento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-## :information_source:  Funcionamento
+## Funcionamento
 
 Existem dois componentes criados nesse repositório, o primeiro é um card que possui uma imagem e algumas informações nele. O segundo é um componente que executa a animação de subir uma área deslizável verticalmente com algumas informações nele. O componentes podem ser acessados para modificação na pasta src/componentes. Veja no gif abaixo o funcionamento.
 
