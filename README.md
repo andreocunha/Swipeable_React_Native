@@ -2,7 +2,7 @@
 	Swipeable up com React Native
 </h1>
 
-## ⚙️ Funcionamento
+## ⚙️  Funcionamento
 
 Existem dois componentes criados nesse repositório, o primeiro é um card que possui uma imagem e algumas informações nele. O segundo é um componente que executa a animação de subir uma área deslizável verticalmente com algumas informações nele. O componentes podem ser acessados para modificação na pasta src/componentes. Veja no gif abaixo o funcionamento.
 
@@ -35,7 +35,7 @@ Feito com ♥  por André Oliveira Cunha :wave:  [Linkedin](https://www.linkedin
 
 ## Licença
 
-Have a look at the [license file](./LICENSE) for details
+Dê uma olhada na licença [license file](./LICENSE) para detalhes
 
 [expo]: https://expo.io/
 [yarn]: https://yarnpkg.com/
