@@ -1,6 +1,6 @@
-<h4 align="center" font-size=20 font-weight="bold"> 
+<h1 align="center"> 
 	Swipeable up com React Native
-</h4>
+</h1>
 
 ## Funcionamento
 
