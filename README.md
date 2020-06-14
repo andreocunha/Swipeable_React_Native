@@ -29,9 +29,9 @@ $ yarn start
 
 # O Expo vai abrir, você pode escanear o QR Code que aparecerá no terminal ou na página web usando o app da Expo no seu celular.
 ```
-<p align="center">
+<footer align="center">
 Feito com ♥  por André Oliveira Cunha :wave:  [Linkedin](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/)
-</p>
+</footer>
 
 ## Licença
 
